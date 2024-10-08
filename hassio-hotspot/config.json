@@ -1,6 +1,6 @@
 {
   "name": "HA Hotspot",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "slug": "ha-hotspot",
   "description": "Hostapd wrapper for Home Assistant",
   "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
